@@ -1,0 +1,40 @@
+{
+    "@type": "Chapter",
+    "@id": "sec:jaaropgaves-jantje-jaaropgave-2025-jantjes-schilderbedrijf#sectie-2",
+    "name": "",
+    "position": 1,
+    "text": "Post | Bedrag (€)\nTotale Omzet | 107,000.00\nInkoop Materialen | 21,400.00\nBedrijfskosten (Bus, Verzekering) | 12,840.00\nOverige Lasten | 8,560.00\nTotaal Kosten | 42,800.00\nNetto Resultaat (Winst) | 64,200.00\n\nOpgemaakt naar waarheid door de administratie van Jantje&#039;s Schilderbedrijf.",
+    "wordCount": 26,
+    "isPartOf": {
+        "@id": "doc:jaaropgaves-jantje-jaaropgave-2025-jantjes-schilderbedrijf"
+    },
+    "hasPart": [
+        {
+            "@type": "TextDigitalDocument",
+            "@id": "chunk:jaaropgaves-jantje-jaaropgave-2025-jantjes-schilderbedrijf#sectie-2#0000",
+            "identifier": "sha256:d6fc95f48692424023653feac99c8cce3959d9a34e897b07dbafb7fe12104b34",
+            "text": "Post | Bedrag (€) Totale Omzet | 107,000.00 Inkoop Materialen | 21,400.00 Bedrijfskosten (Bus, Verzekering) | 12,840.00 Overige Lasten | 8,560.00 Totaal Kosten | 42,800.00 Netto Resultaat (Winst) | 64,200.00 Opgemaakt naar waarheid door de administratie van Jantje&#039;s Schilderbedrijf.",
+            "position": 1,
+            "wordCount": 26,
+            "tokenCount": 34,
+            "contentDate": "2026-02-04",
+            "embedding": {
+                "model": "sentence-transformers\/paraphrase-multilingual-mpnet-base-v2",
+                "vectorDimension": 768
+            },
+            "isPartOf": {
+                "@id": "sec:jaaropgaves-jantje-jaaropgave-2025-jantjes-schilderbedrijf#sectie-2"
+            },
+            "inDocument": {
+                "@id": "doc:jaaropgaves-jantje-jaaropgave-2025-jantjes-schilderbedrijf"
+            }
+        }
+    ],
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "level",
+            "value": "1"
+        }
+    ]
+}
