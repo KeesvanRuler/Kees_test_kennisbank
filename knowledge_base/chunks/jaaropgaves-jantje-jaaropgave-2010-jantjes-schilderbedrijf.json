@@ -1,0 +1,64 @@
+{
+    "@context": "https:\/\/schema.org",
+    "@type": "ItemList",
+    "@id": "kennisbank:chunks:doc:jaaropgaves-jantje-jaaropgave-2010-jantjes-schilderbedrijf",
+    "name": "Chunks voor jaaropgaves_jantje_Jaaropgave_2010_Jantjes_Schilderbedrijf",
+    "document": "doc:jaaropgaves-jantje-jaaropgave-2010-jantjes-schilderbedrijf",
+    "model": {
+        "model": "sentence-transformers\/paraphrase-multilingual-mpnet-base-v2",
+        "vectorDimension": 768,
+        "chunkTokens": 448,
+        "chunkOverlapTokens": 96
+    },
+    "numberOfItems": 2,
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@type": "TextDigitalDocument",
+                "@id": "chunk:jaaropgaves-jantje-jaaropgave-2010-jantjes-schilderbedrijf#sectie-1#0000",
+                "identifier": "sha256:e018a8e10e2c3cced65474cbfa599de8e1f10d228956ef281ed0dfa84029b47f",
+                "text": "Bedrijfsnaam: Jantje&#039;s Schilderbedrijf Verslagperiode: 1 januari 2010 t\/m 31 december 2010",
+                "position": 0,
+                "wordCount": 9,
+                "tokenCount": 12,
+                "contentDate": "2026-02-04",
+                "embedding": {
+                    "model": "sentence-transformers\/paraphrase-multilingual-mpnet-base-v2",
+                    "vectorDimension": 768
+                },
+                "isPartOf": {
+                    "@id": "sec:jaaropgaves-jantje-jaaropgave-2010-jantjes-schilderbedrijf#sectie-1"
+                },
+                "inDocument": {
+                    "@id": "doc:jaaropgaves-jantje-jaaropgave-2010-jantjes-schilderbedrijf"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@type": "TextDigitalDocument",
+                "@id": "chunk:jaaropgaves-jantje-jaaropgave-2010-jantjes-schilderbedrijf#sectie-2#0000",
+                "identifier": "sha256:777325df190ce26f6650786d22fe47d365ac7d4d36b8eb6372231b91c6d98ff7",
+                "text": "Post | Bedrag (€) Totale Omzet | 32,000.00 Inkoop Materialen | 6,400.00 Bedrijfskosten (Bus, Verzekering) | 3,840.00 Overige Lasten | 2,560.00 Totaal Kosten | 12,800.00 Netto Resultaat (Winst) | 19,200.00 Opgemaakt naar waarheid door de administratie van Jantje&#039;s Schilderbedrijf.",
+                "position": 1,
+                "wordCount": 26,
+                "tokenCount": 34,
+                "contentDate": "2026-02-04",
+                "embedding": {
+                    "model": "sentence-transformers\/paraphrase-multilingual-mpnet-base-v2",
+                    "vectorDimension": 768
+                },
+                "isPartOf": {
+                    "@id": "sec:jaaropgaves-jantje-jaaropgave-2010-jantjes-schilderbedrijf#sectie-2"
+                },
+                "inDocument": {
+                    "@id": "doc:jaaropgaves-jantje-jaaropgave-2010-jantjes-schilderbedrijf"
+                }
+            }
+        }
+    ]
+}

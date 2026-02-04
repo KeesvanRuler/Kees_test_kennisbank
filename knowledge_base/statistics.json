@@ -1,10 +1,11 @@
 {
-    "documentCount": 1,
-    "sectionCount": 2,
-    "chunkCount": 2,
-    "estimatedWordCount": 35,
+    "documentCount": 2,
+    "sectionCount": 4,
+    "chunkCount": 4,
+    "estimatedWordCount": 70,
     "categories": {
-        "Opgaves": 1
+        "Opgaves": 1,
+        "": 1
     },
-    "generatedAt": "2026-02-04T14:30:12+00:00"
+    "generatedAt": "2026-02-04T14:34:34+00:00"
 }
