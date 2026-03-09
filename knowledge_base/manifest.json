@@ -3,7 +3,7 @@
     "@type": "Dataset",
     "@id": "kennisbank:manifest",
     "name": "Kennisbank Export",
-    "dateCreated": "2026-02-04T14:34:34+00:00",
+    "dateCreated": "2026-03-09T13:20:07+00:00",
     "description": "Kennisbank export in JSON-LD formaat",
     "license": "Proprietary",
     "model": {
@@ -258,18 +258,98 @@
                     "value": "2026-02-04T14:34:29+00:00"
                 }
             ]
+        },
+        {
+            "@context": "https:\/\/schema.org",
+            "@type": "Article",
+            "@id": "doc:profile",
+            "identifier": "profile",
+            "name": "Profile",
+            "dateCreated": "2026-03-09T13:18:24+00:00",
+            "dateModified": "2026-03-09T13:18:24+00:00",
+            "datePublished": "2026-03-09",
+            "inLanguage": "nl",
+            "hasPart": [
+                {
+                    "@type": "Chapter",
+                    "@id": "sec:profile#inhoud",
+                    "name": "Inhoud",
+                    "position": 0,
+                    "text": "Contactgegevens\nvanrulerkees@gmail.com\nwww.linkedin.com\/in\/kees-van-\nruler-124991248 (LinkedIn)\nBelangrijkste vaardigheden\nMicrosoft SQL-server\nEntity Framework (EF) Core\nMicrosoft Azure\nKees van Ruler\nAI Software Developer\nBeverwijk, Noord-Holland, Nederland\nErvaring\nZelfstandig \/ Eigenaar\nAI Software Developer\nmei 2025 - Present (10 maanden)\nHexapole Automatisering B.V.\nSoftware Engineer\nfebruari 2023 - juni 2025 (2 jaar 5 maanden)\nAlkmaar, Noord-Holland, Nederland\nJONCKERS\nMPTE Translator\njuni 2022 - juni 2024 (2 jaar 1 maand)\nBeverwijk, Noord-Holland, Nederland\nOpleiding\nHogeschool van Amsterdam\nBachelor's degree, Informatica (Software engineering) \/ Hogere opleiding\nSoftware engineer · (2023 - 2025)\nHogeschool van Amsterdam\nAssociate's degree, Software Development · (2021 - 2023)\nGymnasium Felisenum\nMiddelbare School · (2008 - 2015)\n\nPage 1 of 1",
+                    "wordCount": 94,
+                    "isPartOf": {
+                        "@id": "doc:profile"
+                    },
+                    "hasPart": [
+                        {
+                            "@type": "TextDigitalDocument",
+                            "@id": "chunk:profile#inhoud#0000",
+                            "identifier": "sha256:947da661c7a39d4d613dcafd1452997094dc6fddeec9fb46fda29c416e96ed1c",
+                            "text": "Contactgegevens vanrulerkees@gmail.com www.linkedin.com\/in\/kees-van- ruler-124991248 (LinkedIn) Belangrijkste vaardigheden Microsoft SQL-server Entity Framework (EF) Core Microsoft Azure Kees van Ruler AI Software Developer Beverwijk, Noord-Holland, Nederland Ervaring Zelfstandig \/ Eigenaar AI Software Developer mei 2025 - Present (10 maanden) Hexapole Automatisering B.V. Software Engineer februari 2023 - juni 2025 (2 jaar 5 maanden) Alkmaar, Noord-Holland, Nederland JONCKERS MPTE Translator juni 2022 - juni 2024 (2 jaar 1 maand) Beverwijk, Noord-Holland, Nederland Opleiding Hogeschool van Amsterdam Bachelor's degree, Informatica (Software engineering) \/ Hogere opleiding Software engineer · (2023 - 2025) Hogeschool van Amsterdam Associate's degree, Software Development · (2021 - 2023) Gymnasium Felisenum Middelbare School · (2008 - 2015) Page 1 of 1",
+                            "position": 0,
+                            "wordCount": 94,
+                            "tokenCount": 123,
+                            "contentDate": "2026-03-09",
+                            "embedding": {
+                                "model": "sentence-transformers\/paraphrase-multilingual-mpnet-base-v2",
+                                "vectorDimension": 768
+                            },
+                            "isPartOf": {
+                                "@id": "sec:profile#inhoud"
+                            },
+                            "inDocument": {
+                                "@id": "doc:profile"
+                            }
+                        }
+                    ],
+                    "additionalProperty": [
+                        {
+                            "@type": "PropertyValue",
+                            "name": "start_page",
+                            "value": 1
+                        },
+                        {
+                            "@type": "PropertyValue",
+                            "name": "end_page",
+                            "value": 1
+                        }
+                    ]
+                }
+            ],
+            "additionalProperty": [
+                {
+                    "@type": "PropertyValue",
+                    "name": "page_count",
+                    "value": 1
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "author",
+                    "value": "LinkedIn"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "creation_date",
+                    "value": "2026-02-05T15:38:40+00:00"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "name": "last_embedded_at",
+                    "value": "2026-03-09T13:18:24+00:00"
+                }
+            ]
         }
     ],
     "statistics": {
-        "documentCount": 2,
-        "sectionCount": 4,
-        "chunkCount": 4,
-        "estimatedWordCount": 70,
+        "documentCount": 3,
+        "sectionCount": 5,
+        "chunkCount": 5,
+        "estimatedWordCount": 164,
         "categories": {
             "Opgaves": 1,
-            "": 1
+            "": 2
         },
-        "generatedAt": "2026-02-04T14:34:34+00:00"
+        "generatedAt": "2026-03-09T13:20:07+00:00"
     },
     "documentRelations": []
 }
