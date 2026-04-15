@@ -1,0 +1,65 @@
+{
+    "@type": "Chapter",
+    "@id": "sec:motivatiebrief-kees-van-ruler#inhoud",
+    "name": "Inhoud",
+    "position": 0,
+    "text": "Kees van Ruler\nvanrulerkees@gmail.com\nBeverwijk, Noord-Holland\n31 maart 2026\nBetreft: Werkstudent AI Engineer & Software Developer\nHoi,\nMijn naam is Kees van Ruler en ik reageer op de vacature voor Werkstudent AI Engineer &\nSoftware Developer. Kort gezegd: ik studeer AI, ik bouw al actief met de tech stack die jullie\ngebruiken, en ik zoek een plek waar ik dat kan combineren met het werken aan echte\nproducten. Dit voelt als een mooie match.\nIk heb een Bachelor Informatica (Software Engineering) aan de HvA afgerond en volg\nmomenteel de Master Artificial Intelligence aan de Open Universiteit. Daarnaast heb ik ruim\ntwee jaar ervaring als Software Engineer bij Hexapole, waar ik met .NET en Azure werkte. Dat\nwas een goede basis, maar mijn interesse is de afgelopen tijd steeds meer verschoven richting\nAI — en daar zit ik inmiddels ook volledig in.\nSamen met een business partner werk ik aan AITJE, een eigen AI-product gericht op het\ntoegankelijk maken van lokale LLMs voor het MKB. Ons eerste product, de AITJE Assistent, is\neen on-premise AI-assistent die draait op compacte hardware. Ik ben daarbij verantwoordelijk\nvoor de backend (Python, FastAPI), de LLM-integratie en de deployment via Docker. We doen\ndit naast ons werk, vanuit oprechte interesse en omdat we geloven dat er hier iets moois ligt —\nmaar juist daarom zoek ik ook een omgeving waar ik met een ervaren team kan bouwen en\nbijleren.\nAan de frontend-kant heb ik ervaring met TypeScript en heb ik met React gewerkt, dus ik kan\nook daar bijdragen waar nodig. De combinatie van Python, FastAPI, Docker en\nLLM-toepassingen in jullie stack sluit direct aan op waar ik dagelijks mee bezig ben. En het feit\ndat er ruimte is om mee te denken over technische keuzes maakt het extra interessant.\nWat me het meest aantrekt is dat het hier niet gaat om theoretische oefeningen, maar om\ndaadwerkelijk meebouwen aan producten die gebruikt worden. Dat is precies de omgeving\nwaarin ik het beste leer en het meeste kan bijdragen.\nQua beschikbaarheid ben ik flexibel en sta ik open om samen te kijken naar wat het beste\nwerkt.\nIk hoor graag van jullie!\nGroet,\nKees van Ruler",
+    "wordCount": 355,
+    "isPartOf": {
+        "@id": "doc:motivatiebrief-kees-van-ruler"
+    },
+    "hasPart": [
+        {
+            "@type": "TextDigitalDocument",
+            "@id": "chunk:motivatiebrief-kees-van-ruler#inhoud#0000",
+            "identifier": "sha256:5b10d8eae319b201081636e9d3ce5f6c07dbcb9f87dabf9d22bab4f5424f0530",
+            "text": "Kees van Ruler vanrulerkees@gmail.com Beverwijk, Noord-Holland 31 maart 2026 Betreft: Werkstudent AI Engineer & Software Developer Hoi, Mijn naam is Kees van Ruler en ik reageer op de vacature voor Werkstudent AI Engineer & Software Developer. Kort gezegd: ik studeer AI, ik bouw al actief met de tech stack die jullie gebruiken, en ik zoek een plek waar ik dat kan combineren met het werken aan echte producten. Dit voelt als een mooie match. Ik heb een Bachelor Informatica (Software Engineering) aan de HvA afgerond en volg momenteel de Master Artificial Intelligence aan de Open Universiteit. Daarnaast heb ik ruim twee jaar ervaring als Software Engineer bij Hexapole, waar ik met .NET en Azure werkte. Dat was een goede basis, maar mijn interesse is de afgelopen tijd steeds meer verschoven richting AI — en daar zit ik inmiddels ook volledig in. Samen met een business partner werk ik aan AITJE, een eigen AI-product gericht op het toegankelijk maken van lokale LLMs voor het MKB. Ons eerste product, de AITJE Assistent, is een on-premise AI-assistent die draait op compacte hardware. Ik ben daarbij verantwoordelijk voor de backend (Python, FastAPI), de LLM-integratie en de deployment via Docker. We doen dit naast ons werk, vanuit oprechte interesse en omdat we geloven dat er hier iets moois ligt — maar juist daarom zoek ik ook een omgeving waar ik met een ervaren team kan bouwen en bijleren. Aan de frontend-kant heb ik ervaring met TypeScript en heb ik met React gewerkt, dus ik kan ook daar bijdragen waar nodig. De combinatie van Python, FastAPI, Docker en LLM-toepassingen in jullie stack sluit direct aan op waar ik dagelijks mee bezig ben. En het feit dat er ruimte is om mee te denken over technische keuzes maakt het extra interessant. Wat me het meest aantrekt is dat het hier niet gaat om theoretische oefeningen, maar om daadwerkelijk meebouwen aan producten die gebruikt worden. Dat is precies de omgeving waarin ik het beste leer en het meeste kan bijdragen. Qua beschikbaarheid ben ik flexibel en sta ik open om samen te",
+            "position": 0,
+            "wordCount": 340,
+            "tokenCount": 442,
+            "contentDate": "2026-04-15",
+            "embedding": {
+                "model": "sentence-transformers\/paraphrase-multilingual-mpnet-base-v2",
+                "vectorDimension": 768
+            },
+            "isPartOf": {
+                "@id": "sec:motivatiebrief-kees-van-ruler#inhoud"
+            },
+            "inDocument": {
+                "@id": "doc:motivatiebrief-kees-van-ruler"
+            }
+        },
+        {
+            "@type": "TextDigitalDocument",
+            "@id": "chunk:motivatiebrief-kees-van-ruler#inhoud#0001",
+            "identifier": "sha256:9d4ab348d174f3f6d765488dcc4491a5fa3bd1f5d74593330b9a9790c9cb7e95",
+            "text": "ik dagelijks mee bezig ben. En het feit dat er ruimte is om mee te denken over technische keuzes maakt het extra interessant. Wat me het meest aantrekt is dat het hier niet gaat om theoretische oefeningen, maar om daadwerkelijk meebouwen aan producten die gebruikt worden. Dat is precies de omgeving waarin ik het beste leer en het meeste kan bijdragen. Qua beschikbaarheid ben ik flexibel en sta ik open om samen te kijken naar wat het beste werkt. Ik hoor graag van jullie! Groet, Kees van Ruler",
+            "position": 1,
+            "wordCount": 88,
+            "tokenCount": 115,
+            "contentDate": "2026-04-15",
+            "embedding": {
+                "model": "sentence-transformers\/paraphrase-multilingual-mpnet-base-v2",
+                "vectorDimension": 768
+            },
+            "isPartOf": {
+                "@id": "sec:motivatiebrief-kees-van-ruler#inhoud"
+            },
+            "inDocument": {
+                "@id": "doc:motivatiebrief-kees-van-ruler"
+            }
+        }
+    ],
+    "additionalProperty": [
+        {
+            "@type": "PropertyValue",
+            "name": "start_page",
+            "value": 1
+        },
+        {
+            "@type": "PropertyValue",
+            "name": "end_page",
+            "value": 1
+        }
+    ]
+}

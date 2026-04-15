@@ -1,11 +1,12 @@
 {
-    "documentCount": 3,
-    "sectionCount": 5,
-    "chunkCount": 5,
-    "estimatedWordCount": 164,
+    "documentCount": 4,
+    "sectionCount": 6,
+    "chunkCount": 7,
+    "estimatedWordCount": 592,
     "categories": {
         "Opgaves": 1,
-        "": 2
+        "": 2,
+        "Motivatiebrieven": 1
     },
-    "generatedAt": "2026-03-09T13:20:07+00:00"
+    "generatedAt": "2026-04-15T11:49:50+00:00"
 }
