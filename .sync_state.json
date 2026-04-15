@@ -1,0 +1,32 @@
+{
+  "git": {
+    "action": "pulled",
+    "branch": "main"
+  },
+  "qdrant": {
+    "collection": "kennisbank",
+    "points": 7,
+    "upserted": 7,
+    "deleted": 38,
+    "vector_size": 768
+  },
+  "sqlite": {
+    "path": "/home/kees/Documents/loci-scientia/kennisbank_cache.db",
+    "documents": 4,
+    "chunks": 7
+  },
+  "stats": {
+    "document_count": 4,
+    "chunk_count": 7,
+    "embedded_count": 7,
+    "unchanged_count": 0,
+    "deleted_count": 38,
+    "model": {
+      "model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+      "vectorDimension": 768,
+      "chunkTokens": 448,
+      "chunkOverlapTokens": 96
+    }
+  },
+  "synced_at": "2026-04-15T11:56:34.271835+00:00"
+}
